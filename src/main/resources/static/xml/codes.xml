@@ -1,0 +1,1869 @@
+<Countries>
+<Country>
+<CtryNm>AFGHANISTAN</CtryNm>
+<CcyNm>Afghani</CcyNm>
+<Ccy>AFN</Ccy>
+<CcyNbr>971</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ÅLAND ISLANDS</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ALBANIA</CtryNm>
+<CcyNm>Lek</CcyNm>
+<Ccy>ALL</Ccy>
+<CcyNbr>008</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ALGERIA</CtryNm>
+<CcyNm>Algerian Dinar</CcyNm>
+<Ccy>DZD</Ccy>
+<CcyNbr>012</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>AMERICAN SAMOA</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ANDORRA</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ANGOLA</CtryNm>
+<CcyNm>Kwanza</CcyNm>
+<Ccy>AOA</Ccy>
+<CcyNbr>973</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ANGUILLA</CtryNm>
+<CcyNm>East Caribbean Dollar</CcyNm>
+<Ccy>XCD</Ccy>
+<CcyNbr>951</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ANTARCTICA</CtryNm>
+<CcyNm>No universal currency</CcyNm>
+</Country>
+<Country>
+<CtryNm>ANTIGUA AND BARBUDA</CtryNm>
+<CcyNm>East Caribbean Dollar</CcyNm>
+<Ccy>XCD</Ccy>
+<CcyNbr>951</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ARGENTINA</CtryNm>
+<CcyNm>Argentine Peso</CcyNm>
+<Ccy>ARS</Ccy>
+<CcyNbr>032</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ARMENIA</CtryNm>
+<CcyNm>Armenian Dram</CcyNm>
+<Ccy>AMD</Ccy>
+<CcyNbr>051</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ARUBA</CtryNm>
+<CcyNm>Aruban Florin</CcyNm>
+<Ccy>AWG</Ccy>
+<CcyNbr>533</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>AUSTRALIA</CtryNm>
+<CcyNm>Australian Dollar</CcyNm>
+<Ccy>AUD</Ccy>
+<CcyNbr>036</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>AUSTRIA</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>AZERBAIJAN</CtryNm>
+<CcyNm>Azerbaijan Manat</CcyNm>
+<Ccy>AZN</Ccy>
+<CcyNbr>944</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BAHAMAS (THE)</CtryNm>
+<CcyNm>Bahamian Dollar</CcyNm>
+<Ccy>BSD</Ccy>
+<CcyNbr>044</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BAHRAIN</CtryNm>
+<CcyNm>Bahraini Dinar</CcyNm>
+<Ccy>BHD</Ccy>
+<CcyNbr>048</CcyNbr>
+<CcyMnrUnts>3</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BANGLADESH</CtryNm>
+<CcyNm>Taka</CcyNm>
+<Ccy>BDT</Ccy>
+<CcyNbr>050</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BARBADOS</CtryNm>
+<CcyNm>Barbados Dollar</CcyNm>
+<Ccy>BBD</Ccy>
+<CcyNbr>052</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BELARUS</CtryNm>
+<CcyNm>Belarusian Ruble</CcyNm>
+<Ccy>BYN</Ccy>
+<CcyNbr>933</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BELGIUM</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BELIZE</CtryNm>
+<CcyNm>Belize Dollar</CcyNm>
+<Ccy>BZD</Ccy>
+<CcyNbr>084</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BENIN</CtryNm>
+<CcyNm>CFA Franc BCEAO</CcyNm>
+<Ccy>XOF</Ccy>
+<CcyNbr>952</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BERMUDA</CtryNm>
+<CcyNm>Bermudian Dollar</CcyNm>
+<Ccy>BMD</Ccy>
+<CcyNbr>060</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BHUTAN</CtryNm>
+<CcyNm>Indian Rupee</CcyNm>
+<Ccy>INR</Ccy>
+<CcyNbr>356</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BHUTAN</CtryNm>
+<CcyNm>Ngultrum</CcyNm>
+<Ccy>BTN</Ccy>
+<CcyNbr>064</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BOLIVIA (PLURINATIONAL STATE OF)</CtryNm>
+<CcyNm>Boliviano</CcyNm>
+<Ccy>BOB</Ccy>
+<CcyNbr>068</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BOLIVIA (PLURINATIONAL STATE OF)</CtryNm>
+<CcyNm IsFund="true">Mvdol</CcyNm>
+<Ccy>BOV</Ccy>
+<CcyNbr>984</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BONAIRE, SINT EUSTATIUS AND SABA</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BOSNIA AND HERZEGOVINA</CtryNm>
+<CcyNm>Convertible Mark</CcyNm>
+<Ccy>BAM</Ccy>
+<CcyNbr>977</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BOTSWANA</CtryNm>
+<CcyNm>Pula</CcyNm>
+<Ccy>BWP</Ccy>
+<CcyNbr>072</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BOUVET ISLAND</CtryNm>
+<CcyNm>Norwegian Krone</CcyNm>
+<Ccy>NOK</Ccy>
+<CcyNbr>578</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BRAZIL</CtryNm>
+<CcyNm>Brazilian Real</CcyNm>
+<Ccy>BRL</Ccy>
+<CcyNbr>986</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BRITISH INDIAN OCEAN TERRITORY (THE)</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BRUNEI DARUSSALAM</CtryNm>
+<CcyNm>Brunei Dollar</CcyNm>
+<Ccy>BND</Ccy>
+<CcyNbr>096</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BULGARIA</CtryNm>
+<CcyNm>Bulgarian Lev</CcyNm>
+<Ccy>BGN</Ccy>
+<CcyNbr>975</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BURKINA FASO</CtryNm>
+<CcyNm>CFA Franc BCEAO</CcyNm>
+<Ccy>XOF</Ccy>
+<CcyNbr>952</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>BURUNDI</CtryNm>
+<CcyNm>Burundi Franc</CcyNm>
+<Ccy>BIF</Ccy>
+<CcyNbr>108</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CABO VERDE</CtryNm>
+<CcyNm>Cabo Verde Escudo</CcyNm>
+<Ccy>CVE</Ccy>
+<CcyNbr>132</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CAMBODIA</CtryNm>
+<CcyNm>Riel</CcyNm>
+<Ccy>KHR</Ccy>
+<CcyNbr>116</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CAMEROON</CtryNm>
+<CcyNm>CFA Franc BEAC</CcyNm>
+<Ccy>XAF</Ccy>
+<CcyNbr>950</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CANADA</CtryNm>
+<CcyNm>Canadian Dollar</CcyNm>
+<Ccy>CAD</Ccy>
+<CcyNbr>124</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CAYMAN ISLANDS (THE)</CtryNm>
+<CcyNm>Cayman Islands Dollar</CcyNm>
+<Ccy>KYD</Ccy>
+<CcyNbr>136</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CENTRAL AFRICAN REPUBLIC (THE)</CtryNm>
+<CcyNm>CFA Franc BEAC</CcyNm>
+<Ccy>XAF</Ccy>
+<CcyNbr>950</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CHAD</CtryNm>
+<CcyNm>CFA Franc BEAC</CcyNm>
+<Ccy>XAF</Ccy>
+<CcyNbr>950</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CHILE</CtryNm>
+<CcyNm>Chilean Peso</CcyNm>
+<Ccy>CLP</Ccy>
+<CcyNbr>152</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CHILE</CtryNm>
+<CcyNm IsFund="true">Unidad de Fomento</CcyNm>
+<Ccy>CLF</Ccy>
+<CcyNbr>990</CcyNbr>
+<CcyMnrUnts>4</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CHINA</CtryNm>
+<CcyNm>Yuan Renminbi</CcyNm>
+<Ccy>CNY</Ccy>
+<CcyNbr>156</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CHRISTMAS ISLAND</CtryNm>
+<CcyNm>Australian Dollar</CcyNm>
+<Ccy>AUD</Ccy>
+<CcyNbr>036</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>COCOS (KEELING) ISLANDS (THE)</CtryNm>
+<CcyNm>Australian Dollar</CcyNm>
+<Ccy>AUD</Ccy>
+<CcyNbr>036</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>COLOMBIA</CtryNm>
+<CcyNm>Colombian Peso</CcyNm>
+<Ccy>COP</Ccy>
+<CcyNbr>170</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>COLOMBIA</CtryNm>
+<CcyNm IsFund="true">Unidad de Valor Real</CcyNm>
+<Ccy>COU</Ccy>
+<CcyNbr>970</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>COMOROS (THE)</CtryNm>
+<CcyNm>Comorian Franc </CcyNm>
+<Ccy>KMF</Ccy>
+<CcyNbr>174</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CONGO (THE DEMOCRATIC REPUBLIC OF THE)</CtryNm>
+<CcyNm>Congolese Franc</CcyNm>
+<Ccy>CDF</Ccy>
+<CcyNbr>976</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CONGO (THE)</CtryNm>
+<CcyNm>CFA Franc BEAC</CcyNm>
+<Ccy>XAF</Ccy>
+<CcyNbr>950</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>COOK ISLANDS (THE)</CtryNm>
+<CcyNm>New Zealand Dollar</CcyNm>
+<Ccy>NZD</Ccy>
+<CcyNbr>554</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>COSTA RICA</CtryNm>
+<CcyNm>Costa Rican Colon</CcyNm>
+<Ccy>CRC</Ccy>
+<CcyNbr>188</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CÔTE D'IVOIRE</CtryNm>
+<CcyNm>CFA Franc BCEAO</CcyNm>
+<Ccy>XOF</Ccy>
+<CcyNbr>952</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CROATIA</CtryNm>
+<CcyNm>Kuna</CcyNm>
+<Ccy>HRK</Ccy>
+<CcyNbr>191</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CUBA</CtryNm>
+<CcyNm>Cuban Peso</CcyNm>
+<Ccy>CUP</Ccy>
+<CcyNbr>192</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CUBA</CtryNm>
+<CcyNm>Peso Convertible</CcyNm>
+<Ccy>CUC</Ccy>
+<CcyNbr>931</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CURAÇAO</CtryNm>
+<CcyNm>Netherlands Antillean Guilder</CcyNm>
+<Ccy>ANG</Ccy>
+<CcyNbr>532</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CYPRUS</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>CZECHIA</CtryNm>
+<CcyNm>Czech Koruna</CcyNm>
+<Ccy>CZK</Ccy>
+<CcyNbr>203</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>DENMARK</CtryNm>
+<CcyNm>Danish Krone</CcyNm>
+<Ccy>DKK</Ccy>
+<CcyNbr>208</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>DJIBOUTI</CtryNm>
+<CcyNm>Djibouti Franc</CcyNm>
+<Ccy>DJF</Ccy>
+<CcyNbr>262</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>DOMINICA</CtryNm>
+<CcyNm>East Caribbean Dollar</CcyNm>
+<Ccy>XCD</Ccy>
+<CcyNbr>951</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>DOMINICAN REPUBLIC (THE)</CtryNm>
+<CcyNm>Dominican Peso</CcyNm>
+<Ccy>DOP</Ccy>
+<CcyNbr>214</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ECUADOR</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>EGYPT</CtryNm>
+<CcyNm>Egyptian Pound</CcyNm>
+<Ccy>EGP</Ccy>
+<CcyNbr>818</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>EL SALVADOR</CtryNm>
+<CcyNm>El Salvador Colon</CcyNm>
+<Ccy>SVC</Ccy>
+<CcyNbr>222</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>EL SALVADOR</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>EQUATORIAL GUINEA</CtryNm>
+<CcyNm>CFA Franc BEAC</CcyNm>
+<Ccy>XAF</Ccy>
+<CcyNbr>950</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ERITREA</CtryNm>
+<CcyNm>Nakfa</CcyNm>
+<Ccy>ERN</Ccy>
+<CcyNbr>232</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ESTONIA</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ESWATINI</CtryNm>
+<CcyNm>Lilangeni</CcyNm>
+<Ccy>SZL</Ccy>
+<CcyNbr>748</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ETHIOPIA</CtryNm>
+<CcyNm>Ethiopian Birr</CcyNm>
+<Ccy>ETB</Ccy>
+<CcyNbr>230</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>EUROPEAN UNION</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>FALKLAND ISLANDS (THE) [MALVINAS]</CtryNm>
+<CcyNm>Falkland Islands Pound</CcyNm>
+<Ccy>FKP</Ccy>
+<CcyNbr>238</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>FAROE ISLANDS (THE)</CtryNm>
+<CcyNm>Danish Krone</CcyNm>
+<Ccy>DKK</Ccy>
+<CcyNbr>208</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>FIJI</CtryNm>
+<CcyNm>Fiji Dollar</CcyNm>
+<Ccy>FJD</Ccy>
+<CcyNbr>242</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>FINLAND</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>FRANCE</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>FRENCH GUIANA</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>FRENCH POLYNESIA</CtryNm>
+<CcyNm>CFP Franc</CcyNm>
+<Ccy>XPF</Ccy>
+<CcyNbr>953</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>FRENCH SOUTHERN TERRITORIES (THE)</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GABON</CtryNm>
+<CcyNm>CFA Franc BEAC</CcyNm>
+<Ccy>XAF</Ccy>
+<CcyNbr>950</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GAMBIA (THE)</CtryNm>
+<CcyNm>Dalasi</CcyNm>
+<Ccy>GMD</Ccy>
+<CcyNbr>270</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GEORGIA</CtryNm>
+<CcyNm>Lari</CcyNm>
+<Ccy>GEL</Ccy>
+<CcyNbr>981</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GERMANY</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GHANA</CtryNm>
+<CcyNm>Ghana Cedi</CcyNm>
+<Ccy>GHS</Ccy>
+<CcyNbr>936</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GIBRALTAR</CtryNm>
+<CcyNm>Gibraltar Pound</CcyNm>
+<Ccy>GIP</Ccy>
+<CcyNbr>292</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GREECE</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GREENLAND</CtryNm>
+<CcyNm>Danish Krone</CcyNm>
+<Ccy>DKK</Ccy>
+<CcyNbr>208</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GRENADA</CtryNm>
+<CcyNm>East Caribbean Dollar</CcyNm>
+<Ccy>XCD</Ccy>
+<CcyNbr>951</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GUADELOUPE</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GUAM</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GUATEMALA</CtryNm>
+<CcyNm>Quetzal</CcyNm>
+<Ccy>GTQ</Ccy>
+<CcyNbr>320</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GUERNSEY</CtryNm>
+<CcyNm>Pound Sterling</CcyNm>
+<Ccy>GBP</Ccy>
+<CcyNbr>826</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GUINEA</CtryNm>
+<CcyNm>Guinean Franc</CcyNm>
+<Ccy>GNF</Ccy>
+<CcyNbr>324</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GUINEA-BISSAU</CtryNm>
+<CcyNm>CFA Franc BCEAO</CcyNm>
+<Ccy>XOF</Ccy>
+<CcyNbr>952</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>GUYANA</CtryNm>
+<CcyNm>Guyana Dollar</CcyNm>
+<Ccy>GYD</Ccy>
+<CcyNbr>328</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>HAITI</CtryNm>
+<CcyNm>Gourde</CcyNm>
+<Ccy>HTG</Ccy>
+<CcyNbr>332</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>HAITI</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>HEARD ISLAND AND McDONALD ISLANDS</CtryNm>
+<CcyNm>Australian Dollar</CcyNm>
+<Ccy>AUD</Ccy>
+<CcyNbr>036</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>HOLY SEE (THE)</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>HONDURAS</CtryNm>
+<CcyNm>Lempira</CcyNm>
+<Ccy>HNL</Ccy>
+<CcyNbr>340</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>HONG KONG</CtryNm>
+<CcyNm>Hong Kong Dollar</CcyNm>
+<Ccy>HKD</Ccy>
+<CcyNbr>344</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>HUNGARY</CtryNm>
+<CcyNm>Forint</CcyNm>
+<Ccy>HUF</Ccy>
+<CcyNbr>348</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ICELAND</CtryNm>
+<CcyNm>Iceland Krona</CcyNm>
+<Ccy>ISK</Ccy>
+<CcyNbr>352</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>INDIA</CtryNm>
+<CcyNm>Indian Rupee</CcyNm>
+<Ccy>INR</Ccy>
+<CcyNbr>356</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>INDONESIA</CtryNm>
+<CcyNm>Rupiah</CcyNm>
+<Ccy>IDR</Ccy>
+<CcyNbr>360</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>INTERNATIONAL MONETARY FUND (IMF) </CtryNm>
+<CcyNm>SDR (Special Drawing Right)</CcyNm>
+<Ccy>XDR</Ccy>
+<CcyNbr>960</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>IRAN (ISLAMIC REPUBLIC OF)</CtryNm>
+<CcyNm>Iranian Rial</CcyNm>
+<Ccy>IRR</Ccy>
+<CcyNbr>364</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>IRAQ</CtryNm>
+<CcyNm>Iraqi Dinar</CcyNm>
+<Ccy>IQD</Ccy>
+<CcyNbr>368</CcyNbr>
+<CcyMnrUnts>3</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>IRELAND</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ISLE OF MAN</CtryNm>
+<CcyNm>Pound Sterling</CcyNm>
+<Ccy>GBP</Ccy>
+<CcyNbr>826</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ISRAEL</CtryNm>
+<CcyNm>New Israeli Sheqel</CcyNm>
+<Ccy>ILS</Ccy>
+<CcyNbr>376</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ITALY</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>JAMAICA</CtryNm>
+<CcyNm>Jamaican Dollar</CcyNm>
+<Ccy>JMD</Ccy>
+<CcyNbr>388</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>JAPAN</CtryNm>
+<CcyNm>Yen</CcyNm>
+<Ccy>JPY</Ccy>
+<CcyNbr>392</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>JERSEY</CtryNm>
+<CcyNm>Pound Sterling</CcyNm>
+<Ccy>GBP</Ccy>
+<CcyNbr>826</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>JORDAN</CtryNm>
+<CcyNm>Jordanian Dinar</CcyNm>
+<Ccy>JOD</Ccy>
+<CcyNbr>400</CcyNbr>
+<CcyMnrUnts>3</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>KAZAKHSTAN</CtryNm>
+<CcyNm>Tenge</CcyNm>
+<Ccy>KZT</Ccy>
+<CcyNbr>398</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>KENYA</CtryNm>
+<CcyNm>Kenyan Shilling</CcyNm>
+<Ccy>KES</Ccy>
+<CcyNbr>404</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>KIRIBATI</CtryNm>
+<CcyNm>Australian Dollar</CcyNm>
+<Ccy>AUD</Ccy>
+<CcyNbr>036</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)</CtryNm>
+<CcyNm>North Korean Won</CcyNm>
+<Ccy>KPW</Ccy>
+<CcyNbr>408</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>KOREA (THE REPUBLIC OF)</CtryNm>
+<CcyNm>Won</CcyNm>
+<Ccy>KRW</Ccy>
+<CcyNbr>410</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>KUWAIT</CtryNm>
+<CcyNm>Kuwaiti Dinar</CcyNm>
+<Ccy>KWD</Ccy>
+<CcyNbr>414</CcyNbr>
+<CcyMnrUnts>3</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>KYRGYZSTAN</CtryNm>
+<CcyNm>Som</CcyNm>
+<Ccy>KGS</Ccy>
+<CcyNbr>417</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)</CtryNm>
+<CcyNm>Lao Kip</CcyNm>
+<Ccy>LAK</Ccy>
+<CcyNbr>418</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>LATVIA</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>LEBANON</CtryNm>
+<CcyNm>Lebanese Pound</CcyNm>
+<Ccy>LBP</Ccy>
+<CcyNbr>422</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>LESOTHO</CtryNm>
+<CcyNm>Loti</CcyNm>
+<Ccy>LSL</Ccy>
+<CcyNbr>426</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>LESOTHO</CtryNm>
+<CcyNm>Rand</CcyNm>
+<Ccy>ZAR</Ccy>
+<CcyNbr>710</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>LIBERIA</CtryNm>
+<CcyNm>Liberian Dollar</CcyNm>
+<Ccy>LRD</Ccy>
+<CcyNbr>430</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>LIBYA</CtryNm>
+<CcyNm>Libyan Dinar</CcyNm>
+<Ccy>LYD</Ccy>
+<CcyNbr>434</CcyNbr>
+<CcyMnrUnts>3</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>LIECHTENSTEIN</CtryNm>
+<CcyNm>Swiss Franc</CcyNm>
+<Ccy>CHF</Ccy>
+<CcyNbr>756</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>LITHUANIA</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>LUXEMBOURG</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MACAO</CtryNm>
+<CcyNm>Pataca</CcyNm>
+<Ccy>MOP</Ccy>
+<CcyNbr>446</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NORTH MACEDONIA</CtryNm>
+<CcyNm>Denar</CcyNm>
+<Ccy>MKD</Ccy>
+<CcyNbr>807</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MADAGASCAR</CtryNm>
+<CcyNm>Malagasy Ariary</CcyNm>
+<Ccy>MGA</Ccy>
+<CcyNbr>969</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MALAWI</CtryNm>
+<CcyNm>Malawi Kwacha</CcyNm>
+<Ccy>MWK</Ccy>
+<CcyNbr>454</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MALAYSIA</CtryNm>
+<CcyNm>Malaysian Ringgit</CcyNm>
+<Ccy>MYR</Ccy>
+<CcyNbr>458</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MALDIVES</CtryNm>
+<CcyNm>Rufiyaa</CcyNm>
+<Ccy>MVR</Ccy>
+<CcyNbr>462</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MALI</CtryNm>
+<CcyNm>CFA Franc BCEAO</CcyNm>
+<Ccy>XOF</Ccy>
+<CcyNbr>952</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MALTA</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MARSHALL ISLANDS (THE)</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MARTINIQUE</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MAURITANIA</CtryNm>
+<CcyNm>Ouguiya</CcyNm>
+<Ccy>MRU</Ccy>
+<CcyNbr>929</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MAURITIUS</CtryNm>
+<CcyNm>Mauritius Rupee</CcyNm>
+<Ccy>MUR</Ccy>
+<CcyNbr>480</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MAYOTTE</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP</CtryNm>
+<CcyNm>ADB Unit of Account</CcyNm>
+<Ccy>XUA</Ccy>
+<CcyNbr>965</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MEXICO</CtryNm>
+<CcyNm>Mexican Peso</CcyNm>
+<Ccy>MXN</Ccy>
+<CcyNbr>484</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MEXICO</CtryNm>
+<CcyNm IsFund="true">Mexican Unidad de Inversion (UDI)</CcyNm>
+<Ccy>MXV</Ccy>
+<CcyNbr>979</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MICRONESIA (FEDERATED STATES OF)</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MOLDOVA (THE REPUBLIC OF)</CtryNm>
+<CcyNm>Moldovan Leu</CcyNm>
+<Ccy>MDL</Ccy>
+<CcyNbr>498</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MONACO</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MONGOLIA</CtryNm>
+<CcyNm>Tugrik</CcyNm>
+<Ccy>MNT</Ccy>
+<CcyNbr>496</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MONTENEGRO</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MONTSERRAT</CtryNm>
+<CcyNm>East Caribbean Dollar</CcyNm>
+<Ccy>XCD</Ccy>
+<CcyNbr>951</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MOROCCO</CtryNm>
+<CcyNm>Moroccan Dirham</CcyNm>
+<Ccy>MAD</Ccy>
+<CcyNbr>504</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MOZAMBIQUE</CtryNm>
+<CcyNm>Mozambique Metical</CcyNm>
+<Ccy>MZN</Ccy>
+<CcyNbr>943</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>MYANMAR</CtryNm>
+<CcyNm>Kyat</CcyNm>
+<Ccy>MMK</Ccy>
+<CcyNbr>104</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NAMIBIA</CtryNm>
+<CcyNm>Namibia Dollar</CcyNm>
+<Ccy>NAD</Ccy>
+<CcyNbr>516</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NAMIBIA</CtryNm>
+<CcyNm>Rand</CcyNm>
+<Ccy>ZAR</Ccy>
+<CcyNbr>710</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NAURU</CtryNm>
+<CcyNm>Australian Dollar</CcyNm>
+<Ccy>AUD</Ccy>
+<CcyNbr>036</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NEPAL</CtryNm>
+<CcyNm>Nepalese Rupee</CcyNm>
+<Ccy>NPR</Ccy>
+<CcyNbr>524</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NETHERLANDS (THE)</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NEW CALEDONIA</CtryNm>
+<CcyNm>CFP Franc</CcyNm>
+<Ccy>XPF</Ccy>
+<CcyNbr>953</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NEW ZEALAND</CtryNm>
+<CcyNm>New Zealand Dollar</CcyNm>
+<Ccy>NZD</Ccy>
+<CcyNbr>554</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NICARAGUA</CtryNm>
+<CcyNm>Cordoba Oro</CcyNm>
+<Ccy>NIO</Ccy>
+<CcyNbr>558</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NIGER (THE)</CtryNm>
+<CcyNm>CFA Franc BCEAO</CcyNm>
+<Ccy>XOF</Ccy>
+<CcyNbr>952</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NIGERIA</CtryNm>
+<CcyNm>Naira</CcyNm>
+<Ccy>NGN</Ccy>
+<CcyNbr>566</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NIUE</CtryNm>
+<CcyNm>New Zealand Dollar</CcyNm>
+<Ccy>NZD</Ccy>
+<CcyNbr>554</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NORFOLK ISLAND</CtryNm>
+<CcyNm>Australian Dollar</CcyNm>
+<Ccy>AUD</Ccy>
+<CcyNbr>036</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NORTHERN MARIANA ISLANDS (THE)</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>NORWAY</CtryNm>
+<CcyNm>Norwegian Krone</CcyNm>
+<Ccy>NOK</Ccy>
+<CcyNbr>578</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>OMAN</CtryNm>
+<CcyNm>Rial Omani</CcyNm>
+<Ccy>OMR</Ccy>
+<CcyNbr>512</CcyNbr>
+<CcyMnrUnts>3</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PAKISTAN</CtryNm>
+<CcyNm>Pakistan Rupee</CcyNm>
+<Ccy>PKR</Ccy>
+<CcyNbr>586</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PALAU</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PALESTINE, STATE OF</CtryNm>
+<CcyNm>No universal currency</CcyNm>
+</Country>
+<Country>
+<CtryNm>PANAMA</CtryNm>
+<CcyNm>Balboa</CcyNm>
+<Ccy>PAB</Ccy>
+<CcyNbr>590</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PANAMA</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PAPUA NEW GUINEA</CtryNm>
+<CcyNm>Kina</CcyNm>
+<Ccy>PGK</Ccy>
+<CcyNbr>598</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PARAGUAY</CtryNm>
+<CcyNm>Guarani</CcyNm>
+<Ccy>PYG</Ccy>
+<CcyNbr>600</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PERU</CtryNm>
+<CcyNm>Sol</CcyNm>
+<Ccy>PEN</Ccy>
+<CcyNbr>604</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PHILIPPINES (THE)</CtryNm>
+<CcyNm>Philippine Peso</CcyNm>
+<Ccy>PHP</Ccy>
+<CcyNbr>608</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PITCAIRN</CtryNm>
+<CcyNm>New Zealand Dollar</CcyNm>
+<Ccy>NZD</Ccy>
+<CcyNbr>554</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>POLAND</CtryNm>
+<CcyNm>Zloty</CcyNm>
+<Ccy>PLN</Ccy>
+<CcyNbr>985</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PORTUGAL</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>PUERTO RICO</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>QATAR</CtryNm>
+<CcyNm>Qatari Rial</CcyNm>
+<Ccy>QAR</Ccy>
+<CcyNbr>634</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>RÉUNION</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ROMANIA</CtryNm>
+<CcyNm>Romanian Leu</CcyNm>
+<Ccy>RON</Ccy>
+<CcyNbr>946</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>RUSSIAN FEDERATION (THE)</CtryNm>
+<CcyNm>Russian Ruble</CcyNm>
+<Ccy>RUB</Ccy>
+<CcyNbr>643</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>RWANDA</CtryNm>
+<CcyNm>Rwanda Franc</CcyNm>
+<Ccy>RWF</Ccy>
+<CcyNbr>646</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAINT BARTHÉLEMY</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</CtryNm>
+<CcyNm>Saint Helena Pound</CcyNm>
+<Ccy>SHP</Ccy>
+<CcyNbr>654</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAINT KITTS AND NEVIS</CtryNm>
+<CcyNm>East Caribbean Dollar</CcyNm>
+<Ccy>XCD</Ccy>
+<CcyNbr>951</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAINT LUCIA</CtryNm>
+<CcyNm>East Caribbean Dollar</CcyNm>
+<Ccy>XCD</Ccy>
+<CcyNbr>951</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAINT MARTIN (FRENCH PART)</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAINT PIERRE AND MIQUELON</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAINT VINCENT AND THE GRENADINES</CtryNm>
+<CcyNm>East Caribbean Dollar</CcyNm>
+<Ccy>XCD</Ccy>
+<CcyNbr>951</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAMOA</CtryNm>
+<CcyNm>Tala</CcyNm>
+<Ccy>WST</Ccy>
+<CcyNbr>882</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAN MARINO</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAO TOME AND PRINCIPE</CtryNm>
+<CcyNm>Dobra</CcyNm>
+<Ccy>STN</Ccy>
+<CcyNbr>930</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SAUDI ARABIA</CtryNm>
+<CcyNm>Saudi Riyal</CcyNm>
+<Ccy>SAR</Ccy>
+<CcyNbr>682</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SENEGAL</CtryNm>
+<CcyNm>CFA Franc BCEAO</CcyNm>
+<Ccy>XOF</Ccy>
+<CcyNbr>952</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SERBIA</CtryNm>
+<CcyNm>Serbian Dinar</CcyNm>
+<Ccy>RSD</Ccy>
+<CcyNbr>941</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SEYCHELLES</CtryNm>
+<CcyNm>Seychelles Rupee</CcyNm>
+<Ccy>SCR</Ccy>
+<CcyNbr>690</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SIERRA LEONE</CtryNm>
+<CcyNm>Leone</CcyNm>
+<Ccy>SLL</Ccy>
+<CcyNbr>694</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SINGAPORE</CtryNm>
+<CcyNm>Singapore Dollar</CcyNm>
+<Ccy>SGD</Ccy>
+<CcyNbr>702</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SINT MAARTEN (DUTCH PART)</CtryNm>
+<CcyNm>Netherlands Antillean Guilder</CcyNm>
+<Ccy>ANG</Ccy>
+<CcyNbr>532</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS "SUCRE"</CtryNm>
+<CcyNm>Sucre</CcyNm>
+<Ccy>XSU</Ccy>
+<CcyNbr>994</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SLOVAKIA</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SLOVENIA</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SOLOMON ISLANDS</CtryNm>
+<CcyNm>Solomon Islands Dollar</CcyNm>
+<Ccy>SBD</Ccy>
+<CcyNbr>090</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SOMALIA</CtryNm>
+<CcyNm>Somali Shilling</CcyNm>
+<Ccy>SOS</Ccy>
+<CcyNbr>706</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SOUTH AFRICA</CtryNm>
+<CcyNm>Rand</CcyNm>
+<Ccy>ZAR</Ccy>
+<CcyNbr>710</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</CtryNm>
+<CcyNm>No universal currency</CcyNm>
+</Country>
+<Country>
+<CtryNm>SOUTH SUDAN</CtryNm>
+<CcyNm>South Sudanese Pound</CcyNm>
+<Ccy>SSP</Ccy>
+<CcyNbr>728</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SPAIN</CtryNm>
+<CcyNm>Euro</CcyNm>
+<Ccy>EUR</Ccy>
+<CcyNbr>978</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SRI LANKA</CtryNm>
+<CcyNm>Sri Lanka Rupee</CcyNm>
+<Ccy>LKR</Ccy>
+<CcyNbr>144</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SUDAN (THE)</CtryNm>
+<CcyNm>Sudanese Pound</CcyNm>
+<Ccy>SDG</Ccy>
+<CcyNbr>938</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SURINAME</CtryNm>
+<CcyNm>Surinam Dollar</CcyNm>
+<Ccy>SRD</Ccy>
+<CcyNbr>968</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SVALBARD AND JAN MAYEN</CtryNm>
+<CcyNm>Norwegian Krone</CcyNm>
+<Ccy>NOK</Ccy>
+<CcyNbr>578</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SWEDEN</CtryNm>
+<CcyNm>Swedish Krona</CcyNm>
+<Ccy>SEK</Ccy>
+<CcyNbr>752</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SWITZERLAND</CtryNm>
+<CcyNm>Swiss Franc</CcyNm>
+<Ccy>CHF</Ccy>
+<CcyNbr>756</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SWITZERLAND</CtryNm>
+<CcyNm IsFund="true">WIR Euro</CcyNm>
+<Ccy>CHE</Ccy>
+<CcyNbr>947</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SWITZERLAND</CtryNm>
+<CcyNm IsFund="true">WIR Franc</CcyNm>
+<Ccy>CHW</Ccy>
+<CcyNbr>948</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>SYRIAN ARAB REPUBLIC</CtryNm>
+<CcyNm>Syrian Pound</CcyNm>
+<Ccy>SYP</Ccy>
+<CcyNbr>760</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TAIWAN (PROVINCE OF CHINA)</CtryNm>
+<CcyNm>New Taiwan Dollar</CcyNm>
+<Ccy>TWD</Ccy>
+<CcyNbr>901</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TAJIKISTAN</CtryNm>
+<CcyNm>Somoni</CcyNm>
+<Ccy>TJS</Ccy>
+<CcyNbr>972</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TANZANIA, UNITED REPUBLIC OF</CtryNm>
+<CcyNm>Tanzanian Shilling</CcyNm>
+<Ccy>TZS</Ccy>
+<CcyNbr>834</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>THAILAND</CtryNm>
+<CcyNm>Baht</CcyNm>
+<Ccy>THB</Ccy>
+<CcyNbr>764</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TIMOR-LESTE</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TOGO</CtryNm>
+<CcyNm>CFA Franc BCEAO</CcyNm>
+<Ccy>XOF</Ccy>
+<CcyNbr>952</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TOKELAU</CtryNm>
+<CcyNm>New Zealand Dollar</CcyNm>
+<Ccy>NZD</Ccy>
+<CcyNbr>554</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TONGA</CtryNm>
+<CcyNm>Pa’anga</CcyNm>
+<Ccy>TOP</Ccy>
+<CcyNbr>776</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TRINIDAD AND TOBAGO</CtryNm>
+<CcyNm>Trinidad and Tobago Dollar</CcyNm>
+<Ccy>TTD</Ccy>
+<CcyNbr>780</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TUNISIA</CtryNm>
+<CcyNm>Tunisian Dinar</CcyNm>
+<Ccy>TND</Ccy>
+<CcyNbr>788</CcyNbr>
+<CcyMnrUnts>3</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TURKEY</CtryNm>
+<CcyNm>Turkish Lira</CcyNm>
+<Ccy>TRY</Ccy>
+<CcyNbr>949</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TURKMENISTAN</CtryNm>
+<CcyNm>Turkmenistan New Manat</CcyNm>
+<Ccy>TMT</Ccy>
+<CcyNbr>934</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TURKS AND CAICOS ISLANDS (THE)</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>TUVALU</CtryNm>
+<CcyNm>Australian Dollar</CcyNm>
+<Ccy>AUD</Ccy>
+<CcyNbr>036</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>UGANDA</CtryNm>
+<CcyNm>Uganda Shilling</CcyNm>
+<Ccy>UGX</Ccy>
+<CcyNbr>800</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>UKRAINE</CtryNm>
+<CcyNm>Hryvnia</CcyNm>
+<Ccy>UAH</Ccy>
+<CcyNbr>980</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>UNITED ARAB EMIRATES (THE)</CtryNm>
+<CcyNm>UAE Dirham</CcyNm>
+<Ccy>AED</Ccy>
+<CcyNbr>784</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</CtryNm>
+<CcyNm>Pound Sterling</CcyNm>
+<Ccy>GBP</Ccy>
+<CcyNbr>826</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>UNITED STATES MINOR OUTLYING ISLANDS (THE)</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>UNITED STATES OF AMERICA (THE)</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>URUGUAY</CtryNm>
+<CcyNm>Peso Uruguayo</CcyNm>
+<Ccy>UYU</Ccy>
+<CcyNbr>858</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>URUGUAY</CtryNm>
+<CcyNm IsFund="true">Uruguay Peso en Unidades Indexadas (UI)</CcyNm>
+<Ccy>UYI</Ccy>
+<CcyNbr>940</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>URUGUAY</CtryNm>
+<CcyNm>Unidad Previsional</CcyNm>
+<Ccy>UYW</Ccy>
+<CcyNbr>927</CcyNbr>
+<CcyMnrUnts>4</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>UZBEKISTAN</CtryNm>
+<CcyNm>Uzbekistan Sum</CcyNm>
+<Ccy>UZS</Ccy>
+<CcyNbr>860</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>VANUATU</CtryNm>
+<CcyNm>Vatu</CcyNm>
+<Ccy>VUV</Ccy>
+<CcyNbr>548</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>VENEZUELA (BOLIVARIAN REPUBLIC OF)</CtryNm>
+<CcyNm>Bolívar Soberano</CcyNm>
+<Ccy>VES</Ccy>
+<CcyNbr>928</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>VIET NAM</CtryNm>
+<CcyNm>Dong</CcyNm>
+<Ccy>VND</Ccy>
+<CcyNbr>704</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>VIRGIN ISLANDS (BRITISH)</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>VIRGIN ISLANDS (U.S.)</CtryNm>
+<CcyNm>US Dollar</CcyNm>
+<Ccy>USD</Ccy>
+<CcyNbr>840</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>WALLIS AND FUTUNA</CtryNm>
+<CcyNm>CFP Franc</CcyNm>
+<Ccy>XPF</Ccy>
+<CcyNbr>953</CcyNbr>
+<CcyMnrUnts>0</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>WESTERN SAHARA</CtryNm>
+<CcyNm>Moroccan Dirham</CcyNm>
+<Ccy>MAD</Ccy>
+<CcyNbr>504</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>YEMEN</CtryNm>
+<CcyNm>Yemeni Rial</CcyNm>
+<Ccy>YER</Ccy>
+<CcyNbr>886</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ZAMBIA</CtryNm>
+<CcyNm>Zambian Kwacha</CcyNm>
+<Ccy>ZMW</Ccy>
+<CcyNbr>967</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+<Country>
+<CtryNm>ZIMBABWE</CtryNm>
+<CcyNm>Zimbabwe Dollar</CcyNm>
+<Ccy>ZWL</Ccy>
+<CcyNbr>932</CcyNbr>
+<CcyMnrUnts>2</CcyMnrUnts>
+</Country>
+</Countries>

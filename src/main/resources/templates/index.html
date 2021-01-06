@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="ISO-8859-1">
+    <title>Insert title here</title>
+
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" integrity="sha384-Vkoo8x4CGsO3+Hhxv8T/Q5PaXtkKtu6ug5TOeNV6gBiFeWPGFN9MuhOf23Q9Ifjh" crossorigin="anonymous">
+</head>
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm bg-dark navbar-dark">
+            <ul class="navbar-nav">
+                <li class="nav-item active">
+                    <a class="nav-link" href="#">Currency Conversion</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Other Apps</a>
+                </li>
+                <li class="nav-item">
+                    <a class="nav-link" href="#">Contact</a>
+                </li>
+            </ul>
+
+        </nav>
+    </header>
+    <section>
+        <div  class="container p-3 my-3 bg-dark text-white">
+            <form class="contact-form row" method="post" th:action="@{/makeConversion}" th:object="${conversionOperation}">
+                <div class="form-group">
+                    <div>
+                        <label class="control-label" for="currencyBase">Currency to convert</label>
+                    </div>
+                    <select th:field="*{currencyBase}" th:name="currencyBase" id="currencyBase" required>
+                        <option  th:each="currencyBase : ${countries}"
+                                th:value="${currencyBase.ccy}" th:text="${currencyBase.ctryNm}">Country
+                        </option>
+                    </select>
+                </div>
+
+                <div class="form-group">
+                    <div>
+                        <label class="text-center control-label" for="currencyXchange">Currency final</label>
+                    </div>
+                    <select th:field="*{currencyXchange}" th:name="currencyXchange" id="currencyXchange"   required>
+                        <option  th:each="currencyXchange : ${countries}"
+                                th:value="${currencyXchange.ccy}" th:text="${currencyXchange.ctryNm}">Country
+                        </option>
+                    </select>
+                </div>
+                <div class="form-group">
+                    <div>
+                        <label for="amount">Amount</label>
+                    </div>
+                    <input name="amount" step=".01" th:field="*{amount}" type="number" id="amount"></input>
+                </div>
+                <div class="container p-3 my-3 bg-light">
+                    <div class="row">
+                        <div class="col text-center">
+                            <input type="submit" class="btn btn-outline-secondary btn-lg"></input>
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </section>
+    <div class="container p-3 my-3 bg-dark text-white">
+        <span th:unless="${conversion == null}">
+            <span th:text="${conversion} ? ${conversion} : '0'"></span>
+        </span>
+    </div>
+</body>
+</html>
